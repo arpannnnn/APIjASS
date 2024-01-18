@@ -1,0 +1,21 @@
+#fact{
+background: #6d6262;
+font-size: 50px;
+font-weight: 200;
+margin: auto;
+padding: 2px;
+font-style: oblique;
+margin-top: 10px;
+}
+
+#btn{
+    background: #6d6262;
+font-size: 50px;
+font-weight: 200;
+margin: auto;
+padding: 4px;
+border-radius: 20px;
+font-style: oblique;
+opacity: inherit;
+
+}
